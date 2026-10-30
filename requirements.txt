@@ -1,0 +1,14 @@
+# Core
+sentence-transformers
+faiss-cpu
+pypdf
+numpy
+requests
+fonttools          # lets pypdf decode unusual PDF fonts (removes warnings)
+python-dotenv      # optional: load GROQ_API_KEY from a .env file
+
+# Optional: web search tool (agentic_rag.py --web)
+ddgs
+
+# Development
+pytest
