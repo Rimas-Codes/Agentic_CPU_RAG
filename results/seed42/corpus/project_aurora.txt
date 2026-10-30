@@ -1,0 +1,3 @@
+Project Aurora applies machine learning to soil analysis. It is a long-running research effort with a steady team. Results are shared with partner groups through regular workshops.
+
+The project is led by Mira Brennan. The training dataset of Project Aurora contains 358,000 samples. The code and documentation are maintained by a small core team.

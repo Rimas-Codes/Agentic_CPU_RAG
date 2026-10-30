@@ -1,0 +1,3 @@
+Project Lantern applies machine learning to satellite imagery. It is a long-running research effort with a steady team. Results are shared with partner groups through regular workshops.
+
+The project is led by Soren Lindqvist. The training dataset of Project Lantern contains 891,000 samples. The code and documentation are maintained by a small core team.

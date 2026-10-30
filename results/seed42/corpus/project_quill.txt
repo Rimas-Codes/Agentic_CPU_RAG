@@ -1,0 +1,3 @@
+Project Quill applies machine learning to language translation. It is a long-running research effort with a steady team. Results are shared with partner groups through regular workshops.
+
+The project is led by Ilsa Rosario. The training dataset of Project Quill contains 127,000 samples. Progress is reviewed at a short meeting every second week.

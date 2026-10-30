@@ -1,0 +1,3 @@
+Project Tessera applies machine learning to weather forecasting. It is a long-running research effort with a steady team. The code and documentation are maintained by a small core team.
+
+The project is led by Oskar Ferreira. The training dataset of Project Tessera contains 551,000 samples. Results are shared with partner groups through regular workshops.

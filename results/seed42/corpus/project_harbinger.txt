@@ -1,0 +1,3 @@
+Project Harbinger applies machine learning to speech recognition. It is a long-running research effort with a steady team. Results are shared with partner groups through regular workshops.
+
+The project is led by Bram Halloran. The training dataset of Project Harbinger contains 404,000 samples. The code and documentation are maintained by a small core team.

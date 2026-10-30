@@ -1,0 +1,3 @@
+Project Nimbus applies machine learning to battery chemistry. It is a long-running research effort with a steady team. Progress is reviewed at a short meeting every second week.
+
+The project is led by Tomas Whitlock. The training dataset of Project Nimbus contains 171,000 samples. Results are shared with partner groups through regular workshops.

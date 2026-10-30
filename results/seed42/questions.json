@@ -1,0 +1,254 @@
+[
+  {
+    "id": "S1",
+    "category": "simple",
+    "kind": "lab city",
+    "question": "In which city is the Phandor Institute located?",
+    "gold": "Lakemoor",
+    "support": [
+      "lab_phandor_institute.txt"
+    ]
+  },
+  {
+    "id": "S2",
+    "category": "simple",
+    "kind": "lab founder",
+    "question": "Who founded the Quorath Institute?",
+    "gold": "Joren Nwosu",
+    "support": [
+      "lab_quorath_institute.txt"
+    ]
+  },
+  {
+    "id": "S3",
+    "category": "simple",
+    "kind": "lab year",
+    "question": "In which year was the Ulmeris Institute founded?",
+    "gold": "1958",
+    "support": [
+      "lab_ulmeris_institute.txt"
+    ]
+  },
+  {
+    "id": "S4",
+    "category": "simple",
+    "kind": "lab staff",
+    "question": "How many researchers does the Brisnar Institute employ?",
+    "gold": "813",
+    "support": [
+      "lab_brisnar_institute.txt"
+    ]
+  },
+  {
+    "id": "S5",
+    "category": "simple",
+    "kind": "lab flagship",
+    "question": "What is the flagship project of the Draveth Institute?",
+    "gold": "Project Meridian",
+    "support": [
+      "lab_draveth_institute.txt"
+    ]
+  },
+  {
+    "id": "S6",
+    "category": "simple",
+    "kind": "project field",
+    "question": "What field does Project Aurora focus on?",
+    "gold": "soil analysis",
+    "support": [
+      "project_aurora.txt"
+    ]
+  },
+  {
+    "id": "S7",
+    "category": "simple",
+    "kind": "project samples",
+    "question": "How many samples does the training dataset of Project Ember contain?",
+    "gold": "151,000",
+    "support": [
+      "project_ember.txt"
+    ]
+  },
+  {
+    "id": "S8",
+    "category": "simple",
+    "kind": "project lead",
+    "question": "Who leads Project Tessera?",
+    "gold": "Oskar Ferreira",
+    "support": [
+      "project_tessera.txt"
+    ]
+  },
+  {
+    "id": "S9",
+    "category": "simple",
+    "kind": "person university",
+    "question": "At which university did Soren Lindqvist earn a doctorate?",
+    "gold": "University of Calderon",
+    "support": [
+      "person_soren_lindqvist.txt"
+    ]
+  },
+  {
+    "id": "S10",
+    "category": "simple",
+    "kind": "university country",
+    "question": "In which country is Mount Ravenna College located?",
+    "gold": "Korvania",
+    "support": [
+      "university_mount_ravenna_college.txt"
+    ]
+  },
+  {
+    "id": "M1",
+    "category": "multi_hop",
+    "kind": "lab>project>lead",
+    "question": "Who leads the flagship project of the Brisnar Institute?",
+    "gold": "Zora Ivanova",
+    "support": [
+      "lab_brisnar_institute.txt",
+      "project_cobalt.txt"
+    ]
+  },
+  {
+    "id": "M2",
+    "category": "multi_hop",
+    "kind": "lab>project>lead",
+    "question": "Who leads the flagship project of the Orsolen Institute?",
+    "gold": "Ilsa Rosario",
+    "support": [
+      "lab_orsolen_institute.txt",
+      "project_quill.txt"
+    ]
+  },
+  {
+    "id": "M3",
+    "category": "multi_hop",
+    "kind": "lab>project>lead",
+    "question": "Who leads the flagship project of the Mirnavel Institute?",
+    "gold": "Amara Quintero",
+    "support": [
+      "lab_mirnavel_institute.txt",
+      "project_ember.txt"
+    ]
+  },
+  {
+    "id": "M4",
+    "category": "multi_hop",
+    "kind": "lab>project>field",
+    "question": "What field does the flagship project of the Tazrik Institute focus on?",
+    "gold": "satellite imagery",
+    "support": [
+      "lab_tazrik_institute.txt",
+      "project_lantern.txt"
+    ]
+  },
+  {
+    "id": "M5",
+    "category": "multi_hop",
+    "kind": "lab>project>field",
+    "question": "What field does the flagship project of the Draveth Institute focus on?",
+    "gold": "traffic modelling",
+    "support": [
+      "lab_draveth_institute.txt",
+      "project_meridian.txt"
+    ]
+  },
+  {
+    "id": "M6",
+    "category": "multi_hop",
+    "kind": "project>lead>university",
+    "question": "At which university did the leader of Project Tessera earn a doctorate?",
+    "gold": "Brightwater University",
+    "support": [
+      "project_tessera.txt",
+      "person_oskar_ferreira.txt"
+    ]
+  },
+  {
+    "id": "M7",
+    "category": "multi_hop",
+    "kind": "project>lead>university",
+    "question": "At which university did the leader of Project Nimbus earn a doctorate?",
+    "gold": "Mount Ravenna College",
+    "support": [
+      "project_nimbus.txt",
+      "person_tomas_whitlock.txt"
+    ]
+  },
+  {
+    "id": "M8",
+    "category": "multi_hop",
+    "kind": "project>lead>university>country",
+    "question": "In which country is the university located where the leader of Project Harbinger earned a doctorate?",
+    "gold": "Ambrell",
+    "support": [
+      "project_harbinger.txt",
+      "person_bram_halloran.txt",
+      "university_kestrel_university.txt"
+    ]
+  },
+  {
+    "id": "M9",
+    "category": "multi_hop",
+    "kind": "project>lead>university>country",
+    "question": "In which country is the university located where the leader of Project Basalt earned a doctorate?",
+    "gold": "Ambrell",
+    "support": [
+      "project_basalt.txt",
+      "person_leila_garrido.txt",
+      "university_kestrel_university.txt"
+    ]
+  },
+  {
+    "id": "M10",
+    "category": "multi_hop",
+    "kind": "compare two labs",
+    "question": "Which institute was founded earlier, the Ulmeris Institute or the Mirnavel Institute?",
+    "gold": "Ulmeris Institute",
+    "support": [
+      "lab_ulmeris_institute.txt",
+      "lab_mirnavel_institute.txt"
+    ]
+  },
+  {
+    "id": "U1",
+    "category": "unanswerable",
+    "kind": "missing attribute",
+    "question": "What is the annual budget of the Quorath Institute?",
+    "gold": "UNANSWERABLE",
+    "support": []
+  },
+  {
+    "id": "U2",
+    "category": "unanswerable",
+    "kind": "missing attribute",
+    "question": "Which programming language is Project Tessera written in?",
+    "gold": "UNANSWERABLE",
+    "support": []
+  },
+  {
+    "id": "U3",
+    "category": "unanswerable",
+    "kind": "missing attribute",
+    "question": "Who is the current director of the Kelvanta Institute?",
+    "gold": "UNANSWERABLE",
+    "support": []
+  },
+  {
+    "id": "U4",
+    "category": "unanswerable",
+    "kind": "missing attribute",
+    "question": "What is the title of the doctoral thesis of Idris Haddad?",
+    "gold": "UNANSWERABLE",
+    "support": []
+  },
+  {
+    "id": "U5",
+    "category": "unanswerable",
+    "kind": "absent entity",
+    "question": "Where is the Zephyrine Institute located?",
+    "gold": "UNANSWERABLE",
+    "support": []
+  }
+]

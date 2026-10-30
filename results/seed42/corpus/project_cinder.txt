@@ -1,0 +1,3 @@
+Project Cinder applies machine learning to power-grid balancing. It is a long-running research effort with a steady team. Progress is reviewed at a short meeting every second week.
+
+The project is led by Neve Kowalski. The training dataset of Project Cinder contains 173,000 samples. The code and documentation are maintained by a small core team.

@@ -1,0 +1,3 @@
+Project Basalt applies machine learning to seismic monitoring. It is a long-running research effort with a steady team. Results are shared with partner groups through regular workshops.
+
+The project is led by Leila Garrido. The training dataset of Project Basalt contains 448,000 samples. The code and documentation are maintained by a small core team.

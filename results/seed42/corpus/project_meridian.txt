@@ -1,0 +1,3 @@
+Project Meridian applies machine learning to traffic modelling. It is a long-running research effort with a steady team. Progress is reviewed at a short meeting every second week.
+
+The project is led by Idris Haddad. The training dataset of Project Meridian contains 906,000 samples. The code and documentation are maintained by a small core team.
