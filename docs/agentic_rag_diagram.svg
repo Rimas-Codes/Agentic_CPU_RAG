@@ -1,64 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 690" width="680" height="690" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Agentic RAG block diagram">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 860" width="1000" height="860" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Agentic RAG block diagram" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplYTg5NGNiZC1jODE4LTQ4NzMtOTNiZS05M2Y0ZDE0MjkwYjcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJ5NsJ+VY9/sfkacB8WSdH0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0NTM3YTY3MC00ZjkzLTQ2YmEtYjVmNi0zMDE2MTdiZDE3ZmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo23VaI58xKOd1dlQjlKeOiwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggtLsx1zujCPcIsGEmXT/2hz3W488d9PP5Lhwk502/eQekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHsFOWej6DmTBJd0iNeQm4MAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAI9JKm+JX3/2bDwAdIyuNFN387boeKqdtxJn0RLCWDVWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj/Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmVhODk0Y2JkLWM4MTgtNDg3My05M2JlLTkzZjRkMTQyOTBiNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjcwOWI0MGU4LWJlOTYtNGRkNi04ODQxLTgzYzMyMzU2YWI0NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC0uzHXO6MI9wiwYSZdP/aHPdbjzx308/kuHCTnTb95B6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggjZrRybJjKBy+7SG6ZAyqbLG5GAHAyObidFtm/tOKHLmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg3fnu3a39IGT6jZjNxNLNHDcajAyONpoivXT87sZLtKF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLd98SPypBEVkVOBxFRpXiMuwZEEXXPamdfYjoBHqGzdfV6GpeykMgrNI/zAIvlyQ4qjCMIhDYLQuauzy8jtWW0=</c2pa:manifest></metadata>
 <title>Agentic RAG block diagram</title>
-<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M2 1L8 5L2 9" fill="none" stroke="#666" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M2 1L8 5L2 9" fill="none" stroke="#7F77DD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-<rect width="680" height="690" fill="#ffffff"/>
-<rect x="20" y="20" width="640" height="202" rx="12" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="4 4"/>
-<text x="32" y="40" font-size="12" fill="#555">Indexing: runs once at startup</text>
-<rect x="40" y="56" width="170" height="56" rx="8" fill="#E6F1FB" stroke="#85B7EB" stroke-width="1"/>
-<text x="125.0" y="74" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#0C447C">PDF folder</text>
-<text x="125.0" y="93" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">recursive, every .pdf</text>
-<rect x="245" y="56" width="170" height="56" rx="8" fill="#E6F1FB" stroke="#85B7EB" stroke-width="1"/>
-<text x="330.0" y="74" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#0C447C">Extract and chunk</text>
-<text x="330.0" y="93" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">page by page, 200 words</text>
-<rect x="450" y="56" width="170" height="56" rx="8" fill="#E6F1FB" stroke="#85B7EB" stroke-width="1"/>
-<text x="535.0" y="74" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#0C447C">Embed chunks</text>
-<text x="535.0" y="93" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">MiniLM, 384-dim</text>
-<rect x="380" y="146" width="240" height="56" rx="8" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="1"/>
-<text x="500.0" y="164" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#3C3489">FAISS vector index</text>
-<text x="500.0" y="183" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">IndexFlatIP, cosine similarity</text>
-<line x1="212" y1="84" x2="243" y2="84" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<line x1="417" y1="84" x2="448" y2="84" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<line x1="535" y1="114" x2="535" y2="144" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<rect x="20" y="246" width="640" height="382" rx="12" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="4 4"/>
-<text x="32" y="266" font-size="12" fill="#555">Agent loop: repeats per question, max 6 rounds</text>
-<rect x="40" y="282" width="260" height="56" rx="8" fill="#E6F1FB" stroke="#85B7EB" stroke-width="1"/>
-<text x="170.0" y="300" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#0C447C">User question</text>
-<text x="170.0" y="319" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">free-text query</text>
-<rect x="40" y="372" width="260" height="56" rx="8" fill="#FAEEDA" stroke="#EF9F27" stroke-width="1"/>
-<text x="170.0" y="390" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#633806">System prompt + tools</text>
-<text x="170.0" y="409" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#854F0B">rules + 2 tools + question</text>
-<rect x="40" y="462" width="260" height="56" rx="8" fill="#FAECE7" stroke="#F0997B" stroke-width="1"/>
-<text x="170.0" y="480" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#712B13">LLM: gpt-oss-120b</text>
-<text x="170.0" y="499" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#993C1D">search again or answer</text>
-<rect x="40" y="552" width="260" height="56" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1"/>
-<text x="170.0" y="570" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#2C2C2A">Final answer</text>
-<text x="170.0" y="589" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#5F5E5A">when no tool call, cited [1], [2]</text>
-<line x1="170" y1="340" x2="170" y2="370" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<line x1="170" y1="430" x2="170" y2="460" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<line x1="170" y1="520" x2="170" y2="550" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<rect x="380" y="372" width="240" height="56" rx="8" fill="#E6F1FB" stroke="#85B7EB" stroke-width="1"/>
-<text x="500.0" y="390" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#0C447C">Embed query</text>
-<text x="500.0" y="409" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">tool call: search_papers</text>
-<rect x="380" y="462" width="240" height="56" rx="8" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="1"/>
-<text x="500.0" y="480" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#3C3489">FAISS search</text>
-<text x="500.0" y="499" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">top-3 nearest chunks</text>
-<rect x="380" y="552" width="240" height="56" rx="8" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="1"/>
-<text x="500.0" y="570" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#3C3489">Retrieved passages</text>
-<text x="500.0" y="589" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">results go back to the LLM</text>
-<line x1="500" y1="430" x2="500" y2="460" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<line x1="500" y1="520" x2="500" y2="550" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<path d="M300 476 L340 476 L340 400 L378 400" fill="none" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<path d="M380 580 L340 580 L340 504 L302 504" fill="none" stroke="#666" stroke-width="1.5" marker-end="url(#a)"/>
-<path d="M620 174 L642 174 L642 490 L622 490" fill="none" stroke="#7F77DD" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#b)"/>
-<text x="634" y="238" text-anchor="end" font-size="12" fill="#555">index built once, reused by every search</text>
-<rect x="40" y="650" width="12" height="12" rx="2" fill="#E6F1FB" stroke="#85B7EB"/>
-<text x="58" y="656" dominant-baseline="central" font-size="12" fill="#555">Embedding</text>
-<rect x="150" y="650" width="12" height="12" rx="2" fill="#EEEDFE" stroke="#AFA9EC"/>
-<text x="168" y="656" dominant-baseline="central" font-size="12" fill="#555">Vector store / search</text>
-<rect x="330" y="650" width="12" height="12" rx="2" fill="#FAEEDA" stroke="#EF9F27"/>
-<text x="348" y="656" dominant-baseline="central" font-size="12" fill="#555">Prompt engineering</text>
-<rect x="480" y="650" width="12" height="12" rx="2" fill="#FAECE7" stroke="#F0997B"/>
-<text x="498" y="656" dominant-baseline="central" font-size="12" fill="#555">LLM</text>
-<rect x="550" y="650" width="12" height="12" rx="2" fill="#F1EFE8" stroke="#B4B2A9"/>
-<text x="568" y="656" dominant-baseline="central" font-size="12" fill="#555">Answer</text>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9z" fill="#333"/></marker></defs>
+<rect width="1000" height="860" fill="#ffffff"/>
+<text x="60" y="22" text-anchor="start" dominant-baseline="central" font-size="13" font-weight="700" fill="#555">Indexing: runs once at startup</text>
+<text x="480" y="22" text-anchor="start" dominant-baseline="central" font-size="13" font-weight="700" fill="#555">Agent loop: repeats per question, max 6 rounds</text>
+<rect x="60" y="44" width="280" height="56" rx="10" fill="#E6F1FB" stroke="#85B7EB" stroke-width="2"/>
+<text x="178.0" y="64.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#0C447C">PDF folder</text>
+<text x="178.0" y="81.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">every .pdf, subfolders included</text>
+<g transform="translate(302,59.0)" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M1 6h8l2 3h12v13H1z"/></g>
+<line x1="200" y1="101" x2="200" y2="134" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="210" y="118" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">PDFs</text>
+<rect x="60" y="136" width="280" height="62" rx="10" fill="#E6F1FB" stroke="#85B7EB" stroke-width="2"/>
+<text x="178.0" y="159.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#0C447C">Text extraction (pypdf)</text>
+<text x="178.0" y="176.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">page by page, keeps page numbers</text>
+<g transform="translate(302,154.0)" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 1h13l5 5v19H3z"/><path d="M16 1v5h5"/><path d="M7 12h10M7 16h10M7 20h7"/></g>
+<line x1="200" y1="199" x2="200" y2="232" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="210" y="216" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">page text</text>
+<rect x="60" y="234" width="280" height="62" rx="10" fill="#E6F1FB" stroke="#85B7EB" stroke-width="2"/>
+<text x="178.0" y="257.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#0C447C">Chunking</text>
+<text x="178.0" y="274.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">~200 words, 40-word overlap</text>
+<g transform="translate(302,252.0)" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="8" width="6" height="10"/><rect x="9" y="8" width="6" height="10"/><rect x="17" y="8" width="6" height="10"/></g>
+<line x1="200" y1="297" x2="200" y2="330" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="210" y="314" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">chunks</text>
+<rect x="60" y="332" width="280" height="62" rx="10" fill="#E6F1FB" stroke="#85B7EB" stroke-width="2"/>
+<text x="178.0" y="355.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#0C447C">Sentence Transformer</text>
+<text x="178.0" y="372.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">all-MiniLM-L6-v2, 384-dim vectors</text>
+<g transform="translate(302,350.0)" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 5V1M16 5V1M8 21v4M16 21v4M3 10H0M3 16H0M21 10h3M21 16h3"/></g><text x="314" y="363.5" text-anchor="middle" dominant-baseline="central" font-size="9" font-weight="700" fill="#185FA5">AI</text>
+<line x1="200" y1="395" x2="200" y2="428" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="210" y="412" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">embeddings</text>
+<rect x="60" y="430" width="280" height="76" rx="10" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="2"/>
+<text x="178.0" y="452.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#3C3489">FAISS index + chunk store</text>
+<text x="178.0" y="469.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">IndexFlatIP, L2-normalised vectors</text>
+<text x="178.0" y="485.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">in memory, rebuilt on each run</text>
+<g transform="translate(302,455.0)" fill="none" stroke="#534AB7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3.5"/><path d="M3 5v14c0 2 4 3.5 9 3.5s9-1.5 9-3.5V5"/><path d="M3 12c0 2 4 3.5 9 3.5s9-1.5 9-3.5"/></g>
+<rect x="60" y="548" width="280" height="292" rx="12" fill="none" stroke="#222" stroke-width="2.5"/>
+<text x="74" y="566" text-anchor="start" dominant-baseline="central" font-size="13" font-weight="700" fill="#222">Tools</text>
+<rect x="80" y="580" width="240" height="70" rx="10" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="2"/>
+<text x="178.0" y="599.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#3C3489">search_papers(query)</text>
+<text x="178.0" y="616.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">query embedded by MiniLM</text>
+<text x="178.0" y="632.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">returns 3 nearest chunks</text>
+<g transform="translate(282,602.0)" fill="none" stroke="#534AB7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="M15.5 15.5L23 23"/></g>
+<rect x="80" y="668" width="240" height="70" rx="10" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="178.0" y="687.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#3C3489">search_web(query)</text>
+<text x="178.0" y="704.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">DuckDuckGo snippets</text>
+<text x="178.0" y="720.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">optional: off unless --web</text>
+<g transform="translate(282,690.0)" fill="none" stroke="#534AB7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><ellipse cx="12" cy="12" rx="4.5" ry="10"/><path d="M2 12h20"/></g>
+<rect x="80" y="756" width="240" height="70" rx="10" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="2"/>
+<text x="178.0" y="783.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#3C3489">list_papers()</text>
+<text x="178.0" y="800.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534AB7">file names from chunk store</text>
+<g transform="translate(282,778.0)" fill="none" stroke="#534AB7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6h14M9 13h14M9 20h14"/><rect x="1" y="4" width="4" height="4"/><rect x="1" y="11" width="4" height="4"/><rect x="1" y="18" width="4" height="4"/></g>
+<line x1="200" y1="507" x2="200" y2="578" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="210" y="528" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">nearest-chunk search</text>
+<path d="M60 468 L34 468 L34 791 L78 791" fill="none" stroke="#333" stroke-width="2" stroke-linejoin="round" marker-end="url(#ah)"/>
+<rect x="500" y="44" width="240" height="56" rx="10" fill="#E6F1FB" stroke="#85B7EB" stroke-width="2"/>
+<text x="620.0" y="64.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#0C447C">User question</text>
+<text x="620.0" y="81.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#185FA5">free-text query</text>
+<line x1="620" y1="101" x2="620" y2="134" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="500" y="136" width="240" height="62" rx="10" fill="#FAEEDA" stroke="#EF9F27" stroke-width="2"/>
+<text x="620.0" y="159.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#633806">System prompt</text>
+<text x="620.0" y="176.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#854F0B">rules + tool definitions</text>
+<line x1="620" y1="199" x2="620" y2="232" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="480" y="234" width="280" height="100" rx="10" fill="#FAECE7" stroke="#F0997B" stroke-width="2"/>
+<text x="598.0" y="268.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#712B13">LLM: gpt-oss-120b on Groq</text>
+<text x="598.0" y="285.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#993C1D">tool_choice: auto</text>
+<text x="598.0" y="301.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#993C1D">calls a tool or writes the answer</text>
+<g transform="translate(722,271.0)" fill="none" stroke="#993C1D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 5V1M16 5V1M8 21v4M16 21v4M3 10H0M3 16H0M21 10h3M21 16h3"/></g><text x="734" y="284.5" text-anchor="middle" dominant-baseline="central" font-size="9" font-weight="700" fill="#993C1D">AI</text>
+<rect x="856" y="262" width="124" height="56" rx="10" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="2"/>
+<text x="918.0" y="282.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#2C2C2A">Final answer</text>
+<text x="918.0" y="299.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#5F5E5A">cited [1], [2]</text>
+<line x1="762" y1="290" x2="854" y2="290" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="808" y="274" text-anchor="middle" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">no tool call</text>
+<line x1="560" y1="336" x2="560" y2="538" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="552" y="436" text-anchor="end" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">tool call (JSON)</text>
+<line x1="660" y1="538" x2="660" y2="336" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="668" y="436" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">tool result</text>
+<rect x="520" y="540" width="240" height="84" rx="10" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="2"/>
+<text x="618.0" y="566.0" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="700" fill="#2C2C2A">Tool router</text>
+<text x="618.0" y="583.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#5F5E5A">parses the JSON tool call</text>
+<text x="618.0" y="599.0" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#5F5E5A">runs the function it names</text>
+<g transform="translate(722,569.0)" fill="none" stroke="#5F5E5A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v8M12 10L4 20M12 10l8 10"/><circle cx="12" cy="2.5" r="1.5"/><circle cx="4" cy="21" r="1.5"/><circle cx="20" cy="21" r="1.5"/></g>
+<line x1="518" y1="568" x2="342" y2="568" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="430" y="556" text-anchor="middle" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">run tool(args)</text>
+<line x1="342" y1="602" x2="518" y2="602" stroke="#333" stroke-width="2" marker-end="url(#ah)"/>
+<text x="430" y="616" text-anchor="middle" dominant-baseline="central" font-size="12" font-weight="400" fill="#333">numbered passages</text>
+<text x="500" y="664" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#666">Every round re-sends the whole conversation,</text>
+<text x="500" y="681" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#666">so token use grows with each search.</text>
+<rect x="500" y="714" width="16" height="16" rx="3" fill="#E6F1FB" stroke="#85B7EB" stroke-width="1.5"/>
+<text x="526" y="722" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#444">Embedding</text>
+<rect x="500" y="736" width="16" height="16" rx="3" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="1.5"/>
+<text x="526" y="744" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#444">Vector store / search</text>
+<rect x="500" y="758" width="16" height="16" rx="3" fill="#FAEEDA" stroke="#EF9F27" stroke-width="1.5"/>
+<text x="526" y="766" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#444">Prompt engineering</text>
+<rect x="500" y="780" width="16" height="16" rx="3" fill="#FAECE7" stroke="#F0997B" stroke-width="1.5"/>
+<text x="526" y="788" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#444">LLM</text>
+<rect x="500" y="802" width="16" height="16" rx="3" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="526" y="810" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#444">Answer / tool router</text>
+<rect x="500" y="824" width="16" height="16" rx="3" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="526" y="832" text-anchor="start" dominant-baseline="central" font-size="12" font-weight="400" fill="#444">Optional tool (dashed)</text>
 </svg>
